@@ -22,7 +22,7 @@ Usuário - Agregado Raiz
 
 User: aggregate, quando ele executa eventos
 id: Objeto de valor
-email: Objeto de valor
+email: Objeto de valor - Ok
 password: string
 ip: Objeto de valor
 acceptedAt: Objeto de valor
